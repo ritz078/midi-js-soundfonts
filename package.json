@@ -1,6 +1,6 @@
 {
-  "name": "midijs-soundfonts-gleitz-npm",
-  "version": "0.2.1",
+  "name": "midijs-soundfonts",
+  "version": "1.0.0",
   "description": "Pre-rendered General MIDI soundfonts that can be used immediately with MIDI.js",
   "keywords": [ "midi", "soundfont" ],
   "author": "Benjamin Gleitzman <gleitz@mit.edu>",
